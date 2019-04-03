@@ -1,4 +1,4 @@
-# Vue Pack 2017
+# Vue Pack 2019
 
 [![Build status](https://ci.appveyor.com/api/projects/status/us0kd0r6tphv2djr?svg=true)](https://ci.appveyor.com/project/madskristensen/vuepack2017)
 
